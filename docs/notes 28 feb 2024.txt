@@ -1,0 +1,7 @@
+create a temp directory. and copy all the code into that directory. then zip it and allow user to download it. after download delete that directory.
+
+when user clicks on use button, ask specific questions about.
+
+define the template in a variable and append data to that variable. and write to a file
+
+when user uploads the image, convert it to a blob. and send it

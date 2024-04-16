@@ -1,0 +1,34 @@
+user submits the form.
+use database
+create columns for: about, experience, skills, projects, contact, c1, c2, c3
+when user signs up, ask for the above details details and then store it in a DB.
+now user can browse different templates and select one template.
+then we can ask questions only specific to that template.
+like project images, icons etc...
+then create the page and allow users to download the zip code.
+
+form questions
+================================================================================================================
+about
+================================================================================================================
+first name, last name, street (address 1), city, state, pincode, contact, email [already asked during sign in], about me (4-5 lines).
+social links - facebook, linkedin, github
+
+================================================================================================================
+experience
+================================================================================================================
+no. of positions
+then for each position - job profile, company, start date, end date (if none, then till present), small desc about job profile
+
+================================================================================================================
+education
+================================================================================================================
+no. of educations
+then for each education - school name, degree name, start year, end year, score (perc/ cgpa)
+
+================================================================================================================
+skills
+================================================================================================================
+technologies list, add as '+' option
+
+

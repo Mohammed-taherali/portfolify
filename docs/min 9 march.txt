@@ -1,0 +1,4 @@
+create the temporary folder. 
+then send response back to the source page.
+then redirect to that page and pass a get parameter, action=downloadfile.
+the code for in that function will always be the same. because we always create the temporary folder and store the data in that folder only.

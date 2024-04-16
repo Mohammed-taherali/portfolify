@@ -1,0 +1,88 @@
+@font-face {
+    font-family: Caveat;
+    src: url(assets/fonts/Caveat.ttf);
+}
+
+html{
+    background-image: url(assets/images/background.jpg);
+    background-attachment: fixed;
+    font-family: Caveat;
+}
+
+.Intro{
+    font-family: Caveat;
+    font-size: 90px;
+    margin-left: 400px;
+}
+
+.MyName{
+    font-family: Caveat;
+    font-size: 50px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.Name{
+    font-family: Caveat;
+    font-size: 50px;
+    background-color: rgba(255, 255, 255, 0);
+    margin-left: 15px;
+    height: 70px;
+    width: 400px;
+    border: none;
+}
+
+.YourImageHere{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 950px;
+    bottom: 350px;
+}
+
+::placeholder{
+    color: black;
+}
+
+.MyCountry{
+    font-family: Caveat;
+    font-size: 50px;
+    text-align: left;
+}
+
+.Country{
+    font-family: Caveat;
+    font-size: 50px;
+    background-color: rgba(255, 255, 255, 0);
+    height: 70px;
+    width: 500px;
+    border: none;
+}
+
+.AboutMe{
+    font-family: Caveat;
+    font-size: 100px;
+    position: relative;
+    bottom: 200px;
+}
+
+.List{
+    font-family: Caveat;
+    font-size: 50px;
+}
+
+.AMInput{   
+    font-family: Caveat;
+    font-size: 50px;
+    background-color: rgba(0, 0, 0, 0.500);
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    height: 400px;
+    width: 1200px;
+}
+
+#Submit{
+    margin-top: 100px;
+    margin-left: 550px;
+}

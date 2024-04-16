@@ -1,0 +1,9 @@
+questions for temp 6
+1) website (done)
+2) facebook, linkedin, insta, twitter (done)
+3) city, country and short desc for each education. you will have to get the education details from db. (done)
+4) expertise in percent for each of the skills they have entered. (done)
+5) city and country for each experience (done)
+6) projects - count of projects, then for each project - image, project title, github repo link or any other repo link, live url of project, if exists. 
+
+

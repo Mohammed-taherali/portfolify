@@ -1,0 +1,81 @@
+@font-face {
+    font-family: KodeMono;
+    src: url(assets/fonts/KodeMono.ttf);
+}
+
+html{
+    background-image: url(assets/images/backgroundimage.jpg);
+    background-attachment: fixed;
+    font-family: KodeMono;
+}
+
+#Intro{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+#YourPhotoHere{
+    border: 3px solid rgb(0, 0, 0)
+}
+
+#FName{
+    background-color: rgba(80, 80, 80, 0.500);
+}
+
+#FLName{
+    font-size: 35px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.300);
+    font-family: KodeMono;
+    border-color: black;
+    width: 500px;
+}
+
+#APCE{
+    background-color: rgba(80, 80, 80, 0.500);
+}
+
+#Info{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.300);
+    font-family: KodeMono;
+    border-color: black;
+}
+
+#div2{
+    margin-top: 50px;
+    text-align: left;
+    font-size: 25px;
+}
+
+#EducationExperienceSkills{
+    background-color: rgba(202, 6, 6, 0.5);
+}
+
+#Attributes{
+    height: 300px;
+    width: 1290px;
+    background-color: rgba(0, 0, 0, 0.300);
+    font-size: 25px;
+    font-family: KodeMono;
+}
+
+#SocialMedia{
+    background-color: rgba(8, 93, 143, 0.300);
+}
+
+#Media{
+    height: 50px;
+    width: 900px;
+    background-color: rgba(0, 0, 0, 0.300);
+    font-size: 20px;
+    font-family: KodeMono;
+}
+
+#Submit{
+    margin-top: 50px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
